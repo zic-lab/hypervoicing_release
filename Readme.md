@@ -3,6 +3,9 @@
 HyperVoicing - Logiciel d'Aide à la Composition Musicale
 by CompoMusic
 
+Le présent dépôt ne contient qu'un fichier d'aide, un fichier licence et le fichier msi d'installation du logiciel HyperVoicing.
+Pour télécharger ce fichier msi, aller dans la partie Release de ce dépôt.
+
 Développé par : Compomusic
 Site Web : https://compomusic.fr
 
@@ -48,6 +51,8 @@ Site Web : https://compomusic.fr
 ## Description
 HyperVoicing is music composition and pre-production support software.
 It offers an advanced chord track and Piano Roll tracks, featuring unique composition assistance. Its aim: to make it easier to create and turn musical ideas into reality.
+This repository contains only a help file, a licence file and the msi file for installing the HyperVoicing software.
+To download this msi file, go to the Release section of this repository.
 
 ## Installation
 1. Download the HyperVoicing.msi installation file.
